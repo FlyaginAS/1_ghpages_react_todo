@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/FlyaginAS/1_ghpages_react_todo/static/css/main.5a1d1b89.chunk.css",
-    "main.js": "/FlyaginAS/1_ghpages_react_todo/static/js/main.57e887c5.chunk.js",
-    "main.js.map": "/FlyaginAS/1_ghpages_react_todo/static/js/main.57e887c5.chunk.js.map",
-    "runtime-main.js": "/FlyaginAS/1_ghpages_react_todo/static/js/runtime-main.614d9e22.js",
-    "runtime-main.js.map": "/FlyaginAS/1_ghpages_react_todo/static/js/runtime-main.614d9e22.js.map",
-    "static/js/2.e97554bb.chunk.js": "/FlyaginAS/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js",
-    "static/js/2.e97554bb.chunk.js.map": "/FlyaginAS/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js.map",
-    "static/js/3.42d7af16.chunk.js": "/FlyaginAS/1_ghpages_react_todo/static/js/3.42d7af16.chunk.js",
-    "static/js/3.42d7af16.chunk.js.map": "/FlyaginAS/1_ghpages_react_todo/static/js/3.42d7af16.chunk.js.map",
-    "index.html": "/FlyaginAS/1_ghpages_react_todo/index.html",
-    "static/css/main.5a1d1b89.chunk.css.map": "/FlyaginAS/1_ghpages_react_todo/static/css/main.5a1d1b89.chunk.css.map",
-    "static/js/2.e97554bb.chunk.js.LICENSE.txt": "/FlyaginAS/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/FlyaginAS/1_ghpages_react_todo/static/media/logo.6ce24c58.svg"
+    "main.css": "/1_ghpages_react_todo/static/css/main.5a1d1b89.chunk.css",
+    "main.js": "/1_ghpages_react_todo/static/js/main.57e887c5.chunk.js",
+    "main.js.map": "/1_ghpages_react_todo/static/js/main.57e887c5.chunk.js.map",
+    "runtime-main.js": "/1_ghpages_react_todo/static/js/runtime-main.914c36b3.js",
+    "runtime-main.js.map": "/1_ghpages_react_todo/static/js/runtime-main.914c36b3.js.map",
+    "static/js/2.e97554bb.chunk.js": "/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js",
+    "static/js/2.e97554bb.chunk.js.map": "/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js.map",
+    "static/js/3.42d7af16.chunk.js": "/1_ghpages_react_todo/static/js/3.42d7af16.chunk.js",
+    "static/js/3.42d7af16.chunk.js.map": "/1_ghpages_react_todo/static/js/3.42d7af16.chunk.js.map",
+    "index.html": "/1_ghpages_react_todo/index.html",
+    "static/css/main.5a1d1b89.chunk.css.map": "/1_ghpages_react_todo/static/css/main.5a1d1b89.chunk.css.map",
+    "static/js/2.e97554bb.chunk.js.LICENSE.txt": "/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/1_ghpages_react_todo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.614d9e22.js",
+    "static/js/runtime-main.914c36b3.js",
     "static/js/2.e97554bb.chunk.js",
     "static/css/main.5a1d1b89.chunk.css",
     "static/js/main.57e887c5.chunk.js"
