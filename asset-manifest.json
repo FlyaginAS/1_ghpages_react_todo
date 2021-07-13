@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/1_ghpages_react_todo/static/css/main.5a1d1b89.chunk.css",
-    "main.js": "/1_ghpages_react_todo/static/js/main.a73c8b0b.chunk.js",
-    "main.js.map": "/1_ghpages_react_todo/static/js/main.a73c8b0b.chunk.js.map",
-    "runtime-main.js": "/1_ghpages_react_todo/static/js/runtime-main.914c36b3.js",
-    "runtime-main.js.map": "/1_ghpages_react_todo/static/js/runtime-main.914c36b3.js.map",
-    "static/js/2.e97554bb.chunk.js": "/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js",
-    "static/js/2.e97554bb.chunk.js.map": "/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js.map",
-    "static/js/3.42d7af16.chunk.js": "/1_ghpages_react_todo/static/js/3.42d7af16.chunk.js",
-    "static/js/3.42d7af16.chunk.js.map": "/1_ghpages_react_todo/static/js/3.42d7af16.chunk.js.map",
+    "main.css": "/1_ghpages_react_todo/static/css/main.5d26b556.chunk.css",
+    "main.js": "/1_ghpages_react_todo/static/js/main.297933d9.chunk.js",
+    "main.js.map": "/1_ghpages_react_todo/static/js/main.297933d9.chunk.js.map",
+    "runtime-main.js": "/1_ghpages_react_todo/static/js/runtime-main.b1d7fa94.js",
+    "runtime-main.js.map": "/1_ghpages_react_todo/static/js/runtime-main.b1d7fa94.js.map",
+    "static/js/2.39e9c513.chunk.js": "/1_ghpages_react_todo/static/js/2.39e9c513.chunk.js",
+    "static/js/2.39e9c513.chunk.js.map": "/1_ghpages_react_todo/static/js/2.39e9c513.chunk.js.map",
+    "static/js/3.bf3f1898.chunk.js": "/1_ghpages_react_todo/static/js/3.bf3f1898.chunk.js",
+    "static/js/3.bf3f1898.chunk.js.map": "/1_ghpages_react_todo/static/js/3.bf3f1898.chunk.js.map",
     "index.html": "/1_ghpages_react_todo/index.html",
-    "static/css/main.5a1d1b89.chunk.css.map": "/1_ghpages_react_todo/static/css/main.5a1d1b89.chunk.css.map",
-    "static/js/2.e97554bb.chunk.js.LICENSE.txt": "/1_ghpages_react_todo/static/js/2.e97554bb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/1_ghpages_react_todo/static/media/logo.6ce24c58.svg"
+    "static/css/main.5d26b556.chunk.css.map": "/1_ghpages_react_todo/static/css/main.5d26b556.chunk.css.map",
+    "static/js/2.39e9c513.chunk.js.LICENSE.txt": "/1_ghpages_react_todo/static/js/2.39e9c513.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.914c36b3.js",
-    "static/js/2.e97554bb.chunk.js",
-    "static/css/main.5a1d1b89.chunk.css",
-    "static/js/main.a73c8b0b.chunk.js"
+    "static/js/runtime-main.b1d7fa94.js",
+    "static/js/2.39e9c513.chunk.js",
+    "static/css/main.5d26b556.chunk.css",
+    "static/js/main.297933d9.chunk.js"
   ]
 }
