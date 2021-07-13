@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit555555 <code>src/App.js</code> and save to reload.
         </p>
         <p>Hello from gh pages and react</p>
         <a
